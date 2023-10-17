@@ -1,0 +1,12 @@
+/* #app {
+    display: grid;
+    grid-auto-flow: 1fr;
+    min-height: 100vh;
+} */
+
+.yarl__navigation_next, .yarl__navigation_prev {
+    display: none;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
